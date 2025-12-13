@@ -1,1 +1,37 @@
 /* your code here */
+.photo-container{
+	border:1px solid;
+	{
+.product .product__photo{
+	border:5px solid;
+}
+}
+.img1{
+	margin-right:px;
+}
+.photo-main{
+	margin-left:50px;
+	background-color:green;
+	width:370px;
+	height:400px;
+	border:solid 2px;
+	
+}
+.photo-album ul{
+	display:flex;
+	margin-left:60px;
+	list-style-type:none;
+	background-color:white;
+}
+.photo-album li{
+	border:1px solid;
+	margin:8px;
+	
+}
+.controls{
+	display:flex;
+	justify-content:space-between;
+	padding:10px;
+	color:white;
+
+}
